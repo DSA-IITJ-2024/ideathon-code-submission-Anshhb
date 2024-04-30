@@ -22,7 +22,7 @@ This Expense Tracker Application helps users manage their expenses effectively b
 2. Navigate to the project directory:
 
     ```bash
-    cd ideathon-code-submission-Anshhb
+    cd ideathon-code-submission-DSA_Project
     ```
 
 3. Run the application:
