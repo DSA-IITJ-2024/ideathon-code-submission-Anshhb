@@ -1,1 +1,36 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/234bMY4A)
+ideathon-code-submission-Anshhb
+This Expense Tracker Application helps users manage their expenses effectively by categorizing transactions, setting budgets, and tracking spending.
+
+Features
+Add Expense: Users can add new expenses by providing details such as transaction date, amount, vendor, category, subcategory, and item.
+Edit Expense: Allows users to edit existing expenses by modifying details such as amount, vendor, and item.
+Delete Expense: Enables users to delete expenses based on the item.
+View Expenses: Provides a view of all transactions with details such as date, amount, vendor, category, and item.
+Set Budget: Allows users to set budgets for different expense categories.
+Track Spending: Tracks spending against set budgets for each category and displays whether spending is under or over the budget.
+
+Getting Started
+
+1.Clone the repository to your local machine:
+git clone https://github.com/Anshhb/ideathon-code-submission-Anshhb.git
+
+2.Navigate to the project directory:
+cd ideathon-code-submission-Anshhb
+
+3.Run the application:
+python UI.py
+
+Requirements
+Python 3.x
+Tkinter (usually comes pre-installed with Python)
+
+Usage
+Launch the application to access the main menu.
+Use the menu options to add, edit, delete, view expenses, set budgets, and track spending.
+Follow the prompts and input necessary details to perform desired actions.
+
+Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
