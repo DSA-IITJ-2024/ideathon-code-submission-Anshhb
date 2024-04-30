@@ -1,4 +1,4 @@
-# ideathon-code-submission-Anshhb
+# ideathon-code-submission-B22ME012
 
 This Expense Tracker Application helps users manage their expenses effectively by categorizing transactions, setting budgets, and tracking spending.
 
